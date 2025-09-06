@@ -30,7 +30,7 @@
 
 <!-- Languages -->
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,python,java,go,rust,c,r" height="48" />
+  <img src="https://skillicons.dev/icons?i=ts,js,python,java,go,rust,c,r" height="36" />
   <br/>
   <b>TypeScript · JavaScript · Python · Java · Go · Rust · C · R</b>
 </div>  
@@ -39,7 +39,7 @@
 
 <!-- Frontend -->
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind" height="48" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind" height="36" />
   <br/>
   <b>React · Next.js · HTML5 · CSS3 · TailwindCSS</b>
 </div>  
@@ -48,7 +48,7 @@
 
 <!-- Backend -->
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,socketio" height="48" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,socketio" height="36" />
   <br/>
   <b>Node.js · Express.js · NestJS · Socket.io</b>
 </div>  
@@ -57,7 +57,7 @@
 
 <!-- Databases -->
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase" height="48" />
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase" height="36" />
   <br/>
   <b>MongoDB · MySQL · Firebase</b>
 </div>  
@@ -66,7 +66,7 @@
 
 <!-- Cloud & DevOps -->
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=aws,gcp,docker,vercel,netlify,githubactions" height="48" />
+  <img src="https://skillicons.dev/icons?i=aws,gcp,docker,vercel,netlify,githubactions" height="36" />
   <br/>
   <b>AWS · Google Cloud · Docker · Vercel · Netlify · GitHub Actions</b>
 </div>  
@@ -75,7 +75,7 @@
 
 <!-- Tools -->
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=git,postman,arduino,raspberrypi,eslint,prettier" height="48" />
+  <img src="https://skillicons.dev/icons?i=git,postman,arduino,raspberrypi,eslint,prettier" height="36" />
   <br/>
   <b>Git · Postman · Arduino · Raspberry Pi · ESLint · Prettier</b>
 </div>
@@ -112,19 +112,19 @@
 
 ## 🚀 Featured Projects Showcase  
 
-### 💻 RoboBooks  
+### 💻 [RoboBooks](https://github.com/sachin-iam/RoboBooks)  
 A SaaS-based **accounting and finance management platform** designed to simplify bookkeeping and expense tracking.  
 **Tech:** React, Next.js, Node.js, MongoDB, Express.js  
 
 ---
 
-### 💻 Sortify  
+### 💻 [Sortify](https://github.com/sachin-iam/Sortify)  
 A **file and task organization tool** that helps manage, categorize, and sort data efficiently.  
 **Tech:** React, TypeScript, Node.js, MongoDB  
 
 ---
 
-### 🍞 Bake Ree  
+### 🍞 [Bake Ree](https://github.com/sachin-iam/Bake-Ree)  
 An **e-commerce platform** focused on bakery product management and online ordering.  
 **Tech:** React, Next.js, Node.js, Express.js, MongoDB  
 
