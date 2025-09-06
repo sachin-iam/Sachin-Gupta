@@ -21,34 +21,73 @@
 ---
 
 ## 💻 Tech Stack  
-**Languages:** TypeScript, JavaScript, Python, Java, Go, Rust, C, R, SQL  
-**Frontend:** React, Next.js, React Native, HTML5, CSS3, Tailwind  
-**Backend:** Node.js, Express.js, NestJS, Socket.io  
-**Databases:** MongoDB, MySQL, Firebase  
-**Cloud & DevOps:** AWS, Google Cloud, Docker, GitHub Actions, Netlify, Vercel  
-**Other Tools:** Git, Postman, Arduino, Raspberry Pi, ESLint, Prettier  
+
+<p align="center">
+  <!-- Languages -->
+  <img src="https://skillicons.dev/icons?i=ts,js,python,java,go,rust,c,r" height="48" alt="Languages" />
+  <br/>
+  
+  <!-- Frontend -->
+  <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind" height="48" alt="Frontend" />
+  <br/>
+  
+  <!-- Backend -->
+  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,socketio" height="48" alt="Backend" />
+  <br/>
+  
+  <!-- Databases -->
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase" height="48" alt="Databases" />
+  <br/>
+  
+  <!-- Cloud & DevOps -->
+  <img src="https://skillicons.dev/icons?i=aws,gcp,docker,vercel,netlify,githubactions" height="48" alt="Cloud & DevOps" />
+  <br/>
+  
+  <!-- Tools -->
+  <img src="https://skillicons.dev/icons?i=git,postman,arduino,raspberrypi,eslint,prettier" height="48" alt="Tools" />
+</p>
 
 ---
 
 ## 📊 GitHub Stats  
-![](https://github-readme-stats.vercel.app/api?username=sachin-iam&show_icons=true&theme=tokyonight&count_private=true)  
-![](https://github-readme-streak-stats.herokuapp.com/?user=sachin-iam&theme=tokyonight)  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sachin-iam&layout=compact&theme=tokyonight)  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sachin-iam&show_icons=true&theme=tokyonight&count_private=true" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sachin-iam&theme=tokyonight" height="165" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sachin-iam&layout=compact&theme=tokyonight" height="165" />
+</p>
 
 ---
 
 ## 🏆 Achievements & Highlights  
 - 📌 **279+ contributions** this year  
-- ⭐ Creator of **RoboBooks** (Accounting SaaS inspired by Zoho Books)  
+- ⭐ Collaborated on **RoboBooks**, a SaaS-based accounting platform  
 - 🏅 Active contributor to **Triostack Technologies projects**  
 - ⚡ Recognized for **AI integration & hackathon-winning solutions**  
 
 ---
 
+## 🏆 GitHub Trophies  
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=sachin-iam&theme=onestar&no-frame=false&margin-w=10" />
+</p>
+
+---
+
 ## 🔝 Top Contributed Repositories  
-![](https://github-contributor-stats.vercel.app/api?username=sachin-iam&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)  
+<p align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=sachin-iam&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" />
+</p>
 
 ---
 
 ## 📈 Visitors  
-[![](https://visitcount.itsvg.in/api?id=sachin-iam&label=Profile%20Views&color=1&icon=5&pretty=true)](https://visitcount.itsvg.in)  
+<p align="center">
+  <img src="https://visitcount.itsvg.in/api?id=sachin-iam&label=Profile%20Views&color=6&icon=5&pretty=true" />
+</p>
+
+---
+<!-- End of README -->
