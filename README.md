@@ -1,16 +1,15 @@
 # Sachin Gupta  
 
-**Full-Stack Developer | AI & SaaS Enthusiast | Cloud & ML Learner**  
+**Software Developer | Focused on Web Development, AI & SaaS Applications**  
 
 ---
 
 ## 👨‍💻 About Me  
-- 🚀 Currently building full-stack web apps using **React, Next.js & Node.js**  
-- 🤝 Open to collaboration on **AI-driven SaaS platforms**  
-- ☁️ Exploring **cloud deployment, DevOps & microservices**  
-- 📚 Learning **Machine Learning, Cloud Technologies & TypeScript**  
-- 💡 Passionate about turning ideas into **scalable real-world projects**  
-- 🎯 Experienced in **AI integrations & modern web development**  
+- 🚀 Building full-stack web applications using **React, Next.js, Node.js, MongoDB, Express.js**  
+- 💡 Experienced in designing, developing, and debugging responsive web apps  
+- ☁️ Exploring **cloud technologies, DevOps, and microservices**  
+- 🧠 Learning **AI/ML applications** and modern SaaS integrations  
+- 🤝 Passionate about **turning ideas into scalable real-world projects**  
 
 ---
 
@@ -22,63 +21,45 @@
   <a href="mailto:sachinguptaiam@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
+  <a href="https://github.com/sachin-iam">
+    <img src="https://img.shields.io/badge/GitHub-100000.svg?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 </p>
 
 ---
 
 ## 💻 Tech Stack  
 
-<!-- Languages -->
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,python,java,go,rust,c,r" height="36" />
-  <br/>
-  <b>TypeScript · JavaScript · Python · Java · Go · Rust · C · R</b>
+  <img src="https://skillicons.dev/icons?i=ts,js,python,java,c,go,rust" height="30" /><br/>
+  <sub><b>TypeScript · JavaScript · Python · Java · C · Go · Rust</b></sub>
 </div>  
 
----
-
-<!-- Frontend -->
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind" height="36" />
-  <br/>
-  <b>React · Next.js · HTML5 · CSS3 · TailwindCSS</b>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind" height="30" /><br/>
+  <sub><b>React · Next.js · HTML5 · CSS3 · TailwindCSS</b></sub>
 </div>  
 
----
-
-<!-- Backend -->
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,socketio" height="36" />
-  <br/>
-  <b>Node.js · Express.js · NestJS · Socket.io</b>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs" height="30" />
+  <img src="https://cdn.worldvectorlogo.com/logos/socket-io-1.svg" height="30" alt="Socket.io" /><br/>
+  <sub><b>Node.js · Express.js · NestJS · Socket.io</b></sub>
 </div>  
 
----
-
-<!-- Databases -->
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase" height="36" />
-  <br/>
-  <b>MongoDB · MySQL · Firebase</b>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase" height="30" /><br/>
+  <sub><b>MongoDB · MySQL · Firebase</b></sub>
 </div>  
 
----
-
-<!-- Cloud & DevOps -->
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=aws,gcp,docker,vercel,netlify,githubactions" height="36" />
-  <br/>
-  <b>AWS · Google Cloud · Docker · Vercel · Netlify · GitHub Actions</b>
+  <img src="https://skillicons.dev/icons?i=aws,gcp,docker,vercel,netlify,githubactions" height="30" /><br/>
+  <sub><b>AWS · Google Cloud · Docker · Vercel · Netlify · GitHub Actions</b></sub>
 </div>  
 
----
-
-<!-- Tools -->
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=git,postman,arduino,raspberrypi,eslint,prettier" height="36" />
-  <br/>
-  <b>Git · Postman · Arduino · Raspberry Pi · ESLint · Prettier</b>
-</div>
+  <img src="https://skillicons.dev/icons?i=git,postman,arduino,raspberrypi,eslint,prettier" height="30" /><br/>
+  <sub><b>Git · Postman · Arduino · Raspberry Pi · ESLint · Prettier</b></sub>
+</div>  
 
 ---
 
@@ -95,11 +76,12 @@
 
 ---
 
-## 🏆 Achievements & Highlights  
-- 📌 **279+ contributions** this year  
+## 🏆 Highlights  
+- 📌 **279+ GitHub contributions** this year  
 - ⭐ Collaborated on **RoboBooks**, a SaaS-based accounting platform  
-- 🏅 Active contributor to **Sortify** and **Bake Ree**  
-- ⚡ Recognized for **AI integration & innovative SaaS solutions**  
+- 🏅 Contributor to **Sortify** and **Bake Ree**  
+- ⚡ Strong foundation in **Web Development, REST APIs, and Databases**  
+- 📜 Certified in **AI Fundamentals, IoT, Cloud Essentials, and Industrial Communication Protocols**  
 
 ---
 
@@ -112,19 +94,19 @@
 
 ## 🚀 Featured Projects Showcase  
 
-### 💻 [RoboBooks](https://github.com/sachin-iam/RoboBooks)  
+### 💻 RoboBooks  
 A SaaS-based **accounting and finance management platform** designed to simplify bookkeeping and expense tracking.  
 **Tech:** React, Next.js, Node.js, MongoDB, Express.js  
 
 ---
 
-### 💻 [Sortify](https://github.com/sachin-iam/Sortify)  
+### 💻 Sortify  
 A **file and task organization tool** that helps manage, categorize, and sort data efficiently.  
 **Tech:** React, TypeScript, Node.js, MongoDB  
 
 ---
 
-### 🍞 [Bake Ree](https://github.com/sachin-iam/Bake-Ree)  
+### 🍞 Bake Ree  
 An **e-commerce platform** focused on bakery product management and online ordering.  
 **Tech:** React, Next.js, Node.js, Express.js, MongoDB  
 
