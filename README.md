@@ -28,36 +28,57 @@
 
 ## 💻 Tech Stack  
 
-<p align="center">
-  <!-- Languages -->
-  <img src="https://skillicons.dev/icons?i=ts,js,python,java,go,rust,c,r" height="48" /><br/>
+<!-- Languages -->
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=ts,js,python,java,go,rust,c,r" height="48" />
+  <br/>
   <b>TypeScript · JavaScript · Python · Java · Go · Rust · C · R</b>
-  <br/><br/>
+</div>  
 
-  <!-- Frontend -->
-  <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind" height="48" /><br/>
+---
+
+<!-- Frontend -->
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind" height="48" />
+  <br/>
   <b>React · Next.js · HTML5 · CSS3 · TailwindCSS</b>
-  <br/><br/>
+</div>  
 
-  <!-- Backend -->
-  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,socketio" height="48" /><br/>
+---
+
+<!-- Backend -->
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,socketio" height="48" />
+  <br/>
   <b>Node.js · Express.js · NestJS · Socket.io</b>
-  <br/><br/>
+</div>  
 
-  <!-- Databases -->
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase" height="48" /><br/>
+---
+
+<!-- Databases -->
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase" height="48" />
+  <br/>
   <b>MongoDB · MySQL · Firebase</b>
-  <br/><br/>
+</div>  
 
-  <!-- Cloud & DevOps -->
-  <img src="https://skillicons.dev/icons?i=aws,gcp,docker,vercel,netlify,githubactions" height="48" /><br/>
+---
+
+<!-- Cloud & DevOps -->
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=aws,gcp,docker,vercel,netlify,githubactions" height="48" />
+  <br/>
   <b>AWS · Google Cloud · Docker · Vercel · Netlify · GitHub Actions</b>
-  <br/><br/>
+</div>  
 
-  <!-- Tools -->
-  <img src="https://skillicons.dev/icons?i=git,postman,arduino,raspberrypi,eslint,prettier" height="48" /><br/>
+---
+
+<!-- Tools -->
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=git,postman,arduino,raspberrypi,eslint,prettier" height="48" />
+  <br/>
   <b>Git · Postman · Arduino · Raspberry Pi · ESLint · Prettier</b>
-</p>
+</div>
 
 ---
 
