@@ -110,19 +110,35 @@
 
 ---
 
-## 🚀 Featured Projects  
+## 🚀 Featured Projects Showcase  
 
-<p align="center">
-  <a href="https://github.com/sachin-iam/sachin-iam">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sachin-iam&repo=sachin-iam&theme=transparent&bg_color=00000015&hide_border=true" />
-  </a>
-  <a href="https://github.com/sachin-iam/RoboBooks">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sachin-iam&repo=RoboBooks&theme=transparent&bg_color=00000015&hide_border=true" />
-  </a>
-</p>
+### 🔹 RoboBooks  
+A SaaS-based **accounting and finance management platform** designed to simplify bookkeeping and expense tracking.  
+**Tech:** React, Next.js, Node.js, MongoDB, Express.js  
+<p>
+  <a href="https://github.com/sachin-iam/RoboBooks"><img src="https://img.shields.io/badge/Code-000?style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="#"><img src="https://img.shields.io/badge/Live_Demo-25D366?style=for-the-badge&logo=vercel&logoColor=white"></a>
+</p>  
 
-> ⚠️ **Note:** If `RoboBooks` is private under your org, fork it as a public repo in your account to display it here.  
-> Otherwise, I can design a **custom project showcase card** that works even for private projects.  
+---
+
+### 🔹 Triostack ERP  
+Enterprise-grade **ERP system** with modules for teams, projects, complaints, and audit logging.  
+**Tech:** Next.js, Node.js, Express.js, MongoDB, TailwindCSS  
+<p>
+  <a href="#"><img src="https://img.shields.io/badge/Code-000?style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="#"><img src="https://img.shields.io/badge/Live_Demo-007ACC?style=for-the-badge&logo=azuredevops&logoColor=white"></a>
+</p>  
+
+---
+
+### 🔹 CampusClassifier  
+An **AI-powered email classifier** built with DistilBERT to automatically categorize academic, promotional, and placement emails.  
+**Tech:** Python, Hugging Face, FastAPI, MongoDB  
+<p>
+  <a href="#"><img src="https://img.shields.io/badge/Code-000?style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="#"><img src="#"><img src="https://img.shields.io/badge/Demo-FF6C37?style=for-the-badge&logo=google-chrome&logoColor=white"></a>
+</p>  
 
 ---
 
