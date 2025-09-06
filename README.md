@@ -98,7 +98,7 @@
 ## 🏆 Achievements & Highlights  
 - 📌 **279+ contributions** this year  
 - ⭐ Collaborated on **RoboBooks**, a SaaS-based accounting platform  
-- 🏅 Active contributor to **Triostack Technologies projects**  
+- 🏅 Active contributor to **Sortify** and **Bake Ree**  
 - ⚡ Recognized for **AI integration & innovative SaaS solutions**  
 
 ---
@@ -112,39 +112,27 @@
 
 ## 🚀 Featured Projects Showcase  
 
-### 🔹 RoboBooks  
+### 💻 RoboBooks  
 A SaaS-based **accounting and finance management platform** designed to simplify bookkeeping and expense tracking.  
 **Tech:** React, Next.js, Node.js, MongoDB, Express.js  
-<p>
-  <a href="https://github.com/sachin-iam/RoboBooks"><img src="https://img.shields.io/badge/Code-000?style=for-the-badge&logo=github&logoColor=white"></a>
-  <a href="#"><img src="https://img.shields.io/badge/Live_Demo-25D366?style=for-the-badge&logo=vercel&logoColor=white"></a>
-</p>  
 
 ---
 
-### 🔹 Triostack ERP  
-Enterprise-grade **ERP system** with modules for teams, projects, complaints, and audit logging.  
-**Tech:** Next.js, Node.js, Express.js, MongoDB, TailwindCSS  
-<p>
-  <a href="#"><img src="https://img.shields.io/badge/Code-000?style=for-the-badge&logo=github&logoColor=white"></a>
-  <a href="#"><img src="https://img.shields.io/badge/Live_Demo-007ACC?style=for-the-badge&logo=azuredevops&logoColor=white"></a>
-</p>  
+### 💻 Sortify  
+A **file and task organization tool** that helps manage, categorize, and sort data efficiently.  
+**Tech:** React, TypeScript, Node.js, MongoDB  
 
 ---
 
-### 🔹 CampusClassifier  
-An **AI-powered email classifier** built with DistilBERT to automatically categorize academic, promotional, and placement emails.  
-**Tech:** Python, Hugging Face, FastAPI, MongoDB  
-<p>
-  <a href="#"><img src="https://img.shields.io/badge/Code-000?style=for-the-badge&logo=github&logoColor=white"></a>
-  <a href="#"><img src="#"><img src="https://img.shields.io/badge/Demo-FF6C37?style=for-the-badge&logo=google-chrome&logoColor=white"></a>
-</p>  
+### 🍞 Bake Ree  
+An **e-commerce platform** focused on bakery product management and online ordering.  
+**Tech:** React, Next.js, Node.js, Express.js, MongoDB  
 
 ---
 
 ## 📈 Visitors  
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=sachin-iam&label=Profile%20Views&color=6&icon=5&pretty=true" />
+  <img src="https://komarev.com/ghpvc/?username=sachin-iam&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
 </p>
 
 ---
