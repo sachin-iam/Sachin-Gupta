@@ -30,36 +30,60 @@
 
 ## 💻 Tech Stack  
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,python,java,c,go,rust" height="30" /><br/>
-  <sub><b>TypeScript · JavaScript · Python · Java · C · Go · Rust</b></sub>
-</div>  
+<p align="center">
+  <!-- Languages -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="35" style="margin: 8px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="35" style="margin: 8px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="35" style="margin: 8px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="35" style="margin: 8px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="35" style="margin: 8px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="35" style="margin: 8px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" height="35" style="margin: 8px;" />
+</p>  
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind" height="30" /><br/>
-  <sub><b>React · Next.js · HTML5 · CSS3 · TailwindCSS</b></sub>
-</div>  
+<p align="center">
+  <!-- Frontend -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="35" style="margin: 8px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="35" style="margin: 8px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="35" style="margin: 8px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="35" style="margin: 8px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="35" style="margin: 8px;" />
+</p>  
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs" height="30" />
-  <img src="https://cdn.worldvectorlogo.com/logos/socket-io-1.svg" height="30" alt="Socket.io" /><br/>
-  <sub><b>Node.js · Express.js · NestJS · Socket.io</b></sub>
-</div>  
+<p align="center">
+  <!-- Backend -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="35" style="margin: 8px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="35" style="margin: 8px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" height="35" style="margin: 8px;" />
+  <img src="https://cdn.worldvectorlogo.com/logos/socket-io-1.svg" height="35" style="margin: 8px;" />
+</p>  
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase" height="30" /><br/>
-  <sub><b>MongoDB · MySQL · Firebase</b></sub>
-</div>  
+<p align="center">
+  <!-- Databases -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="35" style="margin: 8px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="35" style="margin: 8px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="35" style="margin: 8px;" />
+</p>  
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=aws,gcp,docker,vercel,netlify,githubactions" height="30" /><br/>
-  <sub><b>AWS · Google Cloud · Docker · Vercel · Netlify · GitHub Actions</b></sub>
-</div>  
+<p align="center">
+  <!-- Cloud & DevOps -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="35" style="margin: 8px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="35" style="margin: 8px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="35" style="margin: 8px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" height="35" style="margin: 8px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/netlify/netlify-original.svg" height="35" style="margin: 8px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" height="35" style="margin: 8px;" />
+</p>  
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=git,postman,arduino,raspberrypi,eslint,prettier" height="30" /><br/>
-  <sub><b>Git · Postman · Arduino · Raspberry Pi · ESLint · Prettier</b></sub>
-</div>  
+<p align="center">
+  <!-- Tools -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="35" style="margin: 8px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="35" style="margin: 8px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="35" style="margin: 8px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" height="35" style="margin: 8px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eslint/eslint-original.svg" height="35" style="margin: 8px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prettier/prettier-original.svg" height="35" style="margin: 8px;" />
+</p>  
 
 ---
 
