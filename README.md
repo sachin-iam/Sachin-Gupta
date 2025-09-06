@@ -58,12 +58,12 @@
 ## 📊 GitHub Stats (Glass Style)  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sachin-iam&show_icons=true&theme=transparent&bg_color=00000020&hide_border=true&count_private=true" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sachin-iam&theme=transparent&background=00000020&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sachin-iam&show_icons=true&theme=transparent&bg_color=00000015&hide_border=true&count_private=true" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sachin-iam&theme=transparent&background=00000015&hide_border=true" height="165" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sachin-iam&layout=compact&theme=transparent&bg_color=00000020&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sachin-iam&layout=compact&theme=transparent&bg_color=00000015&hide_border=true" height="165" />
 </p>
 
 ---
@@ -72,13 +72,13 @@
 - 📌 **279+ contributions** this year  
 - ⭐ Collaborated on **RoboBooks**, a SaaS-based accounting platform  
 - 🏅 Active contributor to **Triostack Technologies projects**  
-- ⚡ Recognized for **AI integration & hackathon-winning solutions**  
+- ⚡ Recognized for AI integration & innovative SaaS solutions**  
 
 ---
 
-## 🏆 GitHub Trophies (Glass Effect)  
+## 🏆 GitHub Trophies (Glass Style – Subtle)  
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sachin-iam&theme=matrix&no-frame=true&column=6&margin-w=15&margin-h=15&background=00000020" />
+  <img src="https://github-profile-trophy.vercel.app/?username=sachin-iam&theme=algolia&no-frame=true&margin-w=15&margin-h=15" />
 </p>
 
 ---
@@ -86,19 +86,22 @@
 ## 🚀 Featured Projects (Glass Cards)  
 
 <p align="center">
-  <a href="https://github.com/Triostacksoftware/RoboBooks">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Triostacksoftware&repo=RoboBooks&theme=transparent&bg_color=00000020&hide_border=true" />
-  </a>
   <a href="https://github.com/sachin-iam/sachin-iam">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sachin-iam&repo=sachin-iam&theme=transparent&bg_color=00000020&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sachin-iam&repo=sachin-iam&theme=transparent&bg_color=00000015&hide_border=true" />
+  </a>
+  <a href="https://github.com/sachin-iam/RoboBooks">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sachin-iam&repo=RoboBooks&theme=transparent&bg_color=00000015&hide_border=true" />
   </a>
 </p>
+
+> ⚠️ **Note:** If `RoboBooks` is private under your org, fork it as a public repo in your account to make this card work.  
+> Otherwise, I can design a **custom project card with icons** that works even for private repos.  
 
 ---
 
 ## 📈 Visitors  
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=sachin-iam&label=Profile%20Views&color=12&icon=5&pretty=true" />
+  <img src="https://visitcount.itsvg.in/api?id=sachin-iam&label=Profile%20Views&color=6&icon=5&pretty=true" />
 </p>
 
 ---
