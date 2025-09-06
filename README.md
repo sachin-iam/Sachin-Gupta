@@ -15,12 +15,18 @@
 ---
 
 ## 🌐 Connect with Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sachin-gupta-6252652a5/)  
-[![Email](https://img.shields.io/badge/Email-D14836.svg?logo=gmail&logoColor=white)](mailto:sachinguptaiam@gmail.com)  
+<p align="center">
+  <a href="https://www.linkedin.com/in/sachin-gupta-6252652a5/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:sachinguptaiam@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
 ---
 
-## 💻 Tech Stack  
+## 💻 Tech Stack (Glass Icons)  
 
 <p align="center">
   <!-- Languages -->
@@ -49,15 +55,15 @@
 
 ---
 
-## 📊 GitHub Stats  
+## 📊 GitHub Stats (Glass Style)  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sachin-iam&show_icons=true&theme=tokyonight&count_private=true" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sachin-iam&theme=tokyonight" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sachin-iam&show_icons=true&theme=transparent&bg_color=00000020&hide_border=true&count_private=true" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sachin-iam&theme=transparent&background=00000020&hide_border=true" height="165" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sachin-iam&layout=compact&theme=tokyonight" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sachin-iam&layout=compact&theme=transparent&bg_color=00000020&hide_border=true" height="165" />
 </p>
 
 ---
@@ -70,23 +76,29 @@
 
 ---
 
-## 🏆 GitHub Trophies  
+## 🏆 GitHub Trophies (Glass Effect)  
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sachin-iam&theme=onestar&no-frame=false&margin-w=10" />
+  <img src="https://github-profile-trophy.vercel.app/?username=sachin-iam&theme=matrix&no-frame=true&column=6&margin-w=15&margin-h=15&background=00000020" />
 </p>
 
 ---
 
-## 🔝 Top Contributed Repositories  
+## 🚀 Featured Projects (Glass Cards)  
+
 <p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=sachin-iam&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" />
+  <a href="https://github.com/Triostacksoftware/RoboBooks">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Triostacksoftware&repo=RoboBooks&theme=transparent&bg_color=00000020&hide_border=true" />
+  </a>
+  <a href="https://github.com/sachin-iam/sachin-iam">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sachin-iam&repo=sachin-iam&theme=transparent&bg_color=00000020&hide_border=true" />
+  </a>
 </p>
 
 ---
 
 ## 📈 Visitors  
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=sachin-iam&label=Profile%20Views&color=6&icon=5&pretty=true" />
+  <img src="https://visitcount.itsvg.in/api?id=sachin-iam&label=Profile%20Views&color=12&icon=5&pretty=true" />
 </p>
 
 ---
